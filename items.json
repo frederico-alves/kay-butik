@@ -1,0 +1,24 @@
+[
+    {
+      "itemID": "toy01",
+      "itemName": "Abe",
+      "itemPrice": 618,
+      "itemStock": 4,
+      "image": "./images/abe.jpeg"
+    },
+    {
+      "itemID": "toy02",
+      "itemName": "Sangful",
+      "itemPrice": 522,
+      "itemStock": 2,
+      "image": "./images/sangful.jpeg"
+    },
+    {
+      "itemID": "toy03",
+      "itemName": "Hest",
+      "itemPrice": 384,
+      "itemStock": 4,
+      "image": "./images/hest.jpeg"
+    }
+]
+  
